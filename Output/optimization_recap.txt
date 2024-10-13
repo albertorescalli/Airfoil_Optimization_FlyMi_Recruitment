@@ -1,0 +1,16 @@
+
+--- OPTIMIZATION RESULTS ---
+
+Airfoil model:
+
+Parameters:
+  -Chord:
+  -Cruise Speed:
+  -Kinematic Viscosity:
+  -Reynolds Number:
+
+Optimal Values:
+  -Alpha:
+  -CL:
+  -CD:
+  -L/D:
